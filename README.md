@@ -1,4 +1,4 @@
-### Howdy! 👾
+# Howdy! 👾
 
 I am a self-taught enthusiast in computer science topics with experience in software development from both professional and personal projects, very resilient and capable of learning new technologies in a short period of time.
 
